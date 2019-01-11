@@ -1,0 +1,14 @@
+C:\Users\kevin\source\repos\TestShop\TestShop\bin\Debug\netcoreapp2.2\TestShop.deps.json
+C:\Users\kevin\source\repos\TestShop\TestShop\bin\Debug\netcoreapp2.2\TestShop.runtimeconfig.json
+C:\Users\kevin\source\repos\TestShop\TestShop\bin\Debug\netcoreapp2.2\TestShop.runtimeconfig.dev.json
+C:\Users\kevin\source\repos\TestShop\TestShop\bin\Debug\netcoreapp2.2\TestShop.dll
+C:\Users\kevin\source\repos\TestShop\TestShop\bin\Debug\netcoreapp2.2\TestShop.pdb
+C:\Users\kevin\source\repos\TestShop\TestShop\obj\Debug\netcoreapp2.2\TestShop.csprojAssemblyReference.cache
+C:\Users\kevin\source\repos\TestShop\TestShop\obj\Debug\netcoreapp2.2\TestShop.csproj.CoreCompileInputs.cache
+C:\Users\kevin\source\repos\TestShop\TestShop\obj\Debug\netcoreapp2.2\TestShop.RazorAssemblyInfo.cache
+C:\Users\kevin\source\repos\TestShop\TestShop\obj\Debug\netcoreapp2.2\TestShop.RazorAssemblyInfo.cs
+C:\Users\kevin\source\repos\TestShop\TestShop\obj\Debug\netcoreapp2.2\TestShop.AssemblyInfoInputs.cache
+C:\Users\kevin\source\repos\TestShop\TestShop\obj\Debug\netcoreapp2.2\TestShop.AssemblyInfo.cs
+C:\Users\kevin\source\repos\TestShop\TestShop\obj\Debug\netcoreapp2.2\TestShop.RazorTargetAssemblyInfo.cache
+C:\Users\kevin\source\repos\TestShop\TestShop\obj\Debug\netcoreapp2.2\TestShop.dll
+C:\Users\kevin\source\repos\TestShop\TestShop\obj\Debug\netcoreapp2.2\TestShop.pdb

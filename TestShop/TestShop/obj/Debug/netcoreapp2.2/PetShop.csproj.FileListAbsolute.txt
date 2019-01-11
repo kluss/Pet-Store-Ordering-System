@@ -1,0 +1,13 @@
+C:\Users\kevin\source\repos\TestShop\TestShop\bin\Debug\netcoreapp2.2\PetShop.deps.json
+C:\Users\kevin\source\repos\TestShop\TestShop\bin\Debug\netcoreapp2.2\PetShop.runtimeconfig.json
+C:\Users\kevin\source\repos\TestShop\TestShop\bin\Debug\netcoreapp2.2\PetShop.runtimeconfig.dev.json
+C:\Users\kevin\source\repos\TestShop\TestShop\bin\Debug\netcoreapp2.2\PetShop.dll
+C:\Users\kevin\source\repos\TestShop\TestShop\bin\Debug\netcoreapp2.2\PetShop.pdb
+C:\Users\kevin\source\repos\TestShop\TestShop\obj\Debug\netcoreapp2.2\PetShop.csproj.CoreCompileInputs.cache
+C:\Users\kevin\source\repos\TestShop\TestShop\obj\Debug\netcoreapp2.2\PetShop.RazorAssemblyInfo.cache
+C:\Users\kevin\source\repos\TestShop\TestShop\obj\Debug\netcoreapp2.2\PetShop.RazorAssemblyInfo.cs
+C:\Users\kevin\source\repos\TestShop\TestShop\obj\Debug\netcoreapp2.2\PetShop.AssemblyInfoInputs.cache
+C:\Users\kevin\source\repos\TestShop\TestShop\obj\Debug\netcoreapp2.2\PetShop.AssemblyInfo.cs
+C:\Users\kevin\source\repos\TestShop\TestShop\obj\Debug\netcoreapp2.2\PetShop.RazorTargetAssemblyInfo.cache
+C:\Users\kevin\source\repos\TestShop\TestShop\obj\Debug\netcoreapp2.2\PetShop.dll
+C:\Users\kevin\source\repos\TestShop\TestShop\obj\Debug\netcoreapp2.2\PetShop.pdb

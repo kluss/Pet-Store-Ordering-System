@@ -1,0 +1,17 @@
+C:\Users\kevin\source\repos\TestShop\PetShopTest\obj\Debug\netcoreapp2.2\PetShopTest.csprojAssemblyReference.cache
+C:\Users\kevin\source\repos\TestShop\PetShopTest\obj\Debug\netcoreapp2.2\PetShopTest.csproj.CoreCompileInputs.cache
+C:\Users\kevin\source\repos\TestShop\PetShopTest\obj\Debug\netcoreapp2.2\PetShopTest.AssemblyInfoInputs.cache
+C:\Users\kevin\source\repos\TestShop\PetShopTest\obj\Debug\netcoreapp2.2\PetShopTest.AssemblyInfo.cs
+C:\Users\kevin\source\repos\TestShop\PetShopTest\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\kevin\source\repos\TestShop\PetShopTest\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\kevin\source\repos\TestShop\PetShopTest\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\kevin\source\repos\TestShop\PetShopTest\bin\Debug\netcoreapp2.2\PetShopTest.deps.json
+C:\Users\kevin\source\repos\TestShop\PetShopTest\bin\Debug\netcoreapp2.2\PetShopTest.runtimeconfig.json
+C:\Users\kevin\source\repos\TestShop\PetShopTest\bin\Debug\netcoreapp2.2\PetShopTest.runtimeconfig.dev.json
+C:\Users\kevin\source\repos\TestShop\PetShopTest\bin\Debug\netcoreapp2.2\PetShopTest.dll
+C:\Users\kevin\source\repos\TestShop\PetShopTest\bin\Debug\netcoreapp2.2\PetShopTest.pdb
+C:\Users\kevin\source\repos\TestShop\PetShopTest\bin\Debug\netcoreapp2.2\PetShop.dll
+C:\Users\kevin\source\repos\TestShop\PetShopTest\bin\Debug\netcoreapp2.2\PetShop.pdb
+C:\Users\kevin\source\repos\TestShop\PetShopTest\obj\Debug\netcoreapp2.2\PetShopTest.csproj.CopyComplete
+C:\Users\kevin\source\repos\TestShop\PetShopTest\obj\Debug\netcoreapp2.2\PetShopTest.dll
+C:\Users\kevin\source\repos\TestShop\PetShopTest\obj\Debug\netcoreapp2.2\PetShopTest.pdb
